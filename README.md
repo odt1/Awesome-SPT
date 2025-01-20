@@ -17,7 +17,7 @@ Items in bold is what I use in every playthrough.
 - [SPT ModOrganizer Integration](https://hub.sp-tarkov.com/files/file/1314-spt-modorganizer-integration/)
 - [**Better Icons for mapgenie.io Tarkov Maps**](https://hub.sp-tarkov.com/files/file/1055-better-icons-for-mapgenie-io-tarkov-maps/)
 - [Raid Review](https://hub.sp-tarkov.com/files/file/2037-raid-review/)
-
+  
 ### Launchers:
 - [SPT Mini-Launcher](https://hub.sp-tarkov.com/files/file/1017-spt-mini-launcher/)
 - [Quick Launcher](https://hub.sp-tarkov.com/files/file/1328-quick-launcher/)
@@ -49,7 +49,7 @@ Fixes:
 - [**Fps Unlocker**](https://hub.sp-tarkov.com/files/file/1751-fps-unlocker/)
 - [**Hide Beta Rework**](https://hub.sp-tarkov.com/files/file/2211-hide-beta-rework/)
 - [Stop Hotkey Auto-Vault](https://hub.sp-tarkov.com/files/file/2252-stop-hotkey-auto-vault/)
-- [**Lua's Auto Profile Backup (Updated)**](https://hub.sp-tarkov.com/files/file/1143-lua-s-auto-profile-backup-updated/#overview) NOT UPDATED FOR 3.10 (might work with changing sptVersion in the `package.json`)
+- [**Event Auto Profile Backup**](https://hub.sp-tarkov.com/files/file/2651-event-auto-profile-backup)
 
 Info:
 - [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/)
@@ -72,7 +72,7 @@ Stash and Hideout:
 - [**CactusPie's Transfer Loot into Container Automatically (Reupload)**](https://hub.sp-tarkov.com/files/file/2326-cactuspie-s-transfer-loot-into-container-automatically-reupload/)
 - [Equip From Weapon Rack](https://hub.sp-tarkov.com/files/file/1567-equip-from-weapon-rack/)
 - [**Stash Search**](https://hub.sp-tarkov.com/files/file/1769-stash-search/)
-- [QuickSell](https://hub.sp-tarkov.com/files/file/2318-quicksell/)
+- [**QuickSell**](https://hub.sp-tarkov.com/files/file/2318-quicksell/)
 - [Dynamic Soundtrack & Custom Menu Music (Bobby's Music Player)](https://hub.sp-tarkov.com/files/file/2250-dynamic-soundtrack-custom-menu-music-bobby-s-music-player/)
 
 In-Raid QoL:
@@ -143,7 +143,7 @@ In-Raid QoL:
 - [**Simple Season Selector**](https://hub.sp-tarkov.com/files/file/2118-simple-season-selector/)
 - [**Disable Seasonal Events**](https://hub.sp-tarkov.com/files/file/2440-disable-seasonal-events/)
 - [**All The Clothes**](https://hub.sp-tarkov.com/files/file/740-all-the-clothes/)
-- [WTT - Head and Voice Selector](https://hub.sp-tarkov.com/files/file/1788-wtt-head-and-voice-selector/)
+- [**WTT - Head and Voice Selector**](https://hub.sp-tarkov.com/files/file/1788-wtt-head-and-voice-selector/)
 - [Skin Service](https://hub.sp-tarkov.com/files/file/781-skin-service/)
 - [Insurance Plus](https://hub.sp-tarkov.com/files/file/2115-insurance-plus/)
 - [Yet Another Keep Your Equipment Mod](https://hub.sp-tarkov.com/files/file/2162-yet-another-keep-your-equipment-mod/)
@@ -162,7 +162,7 @@ In-Raid QoL:
 - [Dynamic Goons](https://hub.sp-tarkov.com/files/file/2499-dynamic-goons/#tab_e3dac693cb89cac16c084e311241b932b89f96b0)
 - [**Hazardifier**](https://hub.sp-tarkov.com/files/file/2438-hazardifier/)
 - [Unlock Arena Lockboxes](https://hub.sp-tarkov.com/files/file/2606-unlock-arena-lockboxes/)
-- [Mod My Weight Limits](https://hub.sp-tarkov.com/files/file/2581-mod-my-weight-limits/)
+- [**Mod My Weight Limits**](https://hub.sp-tarkov.com/files/file/2581-mod-my-weight-limits/)
 - [Configurable Experience](https://hub.sp-tarkov.com/files/file/2588-configurable-experience/)
 - [**Fin's AutoBalanceLevels but fixed**](https://hub.sp-tarkov.com/files/file/2094-fin-s-autobalancelevels-but-fixed/)
 - [Lockable Doors](https://hub.sp-tarkov.com/files/file/2593-lockable-doors/)

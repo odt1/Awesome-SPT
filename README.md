@@ -39,7 +39,7 @@ Items in bold is what I use in every playthrough.
 ### UI, Fixes, QOL:
 
 Fixes:
-- [**Performance Improvements**](https://hub.sp-tarkov.com/files/file/2505-performance-improvements/#versions)
+- [**Performance Improvements**](https://hub.sp-tarkov.com/files/file/2505-performance-improvements/#versions) + [**UnityToolkit**](https://hub.sp-tarkov.com/files/file/1976-unitytoolkit)
 - [De-Clutterer - Updated by CJ](https://hub.sp-tarkov.com/files/file/1785-de-clutterer-updated-by-cj/)
 - [**Ram Cleaner Fix**](https://hub.sp-tarkov.com/files/file/1827-ram-cleaner-fix/)
 - [**UI Fixes**](https://hub.sp-tarkov.com/files/file/1860-ui-fixes/)
@@ -106,6 +106,7 @@ In-Raid QoL:
 - [Grenade Indicator](https://hub.sp-tarkov.com/files/file/2194-grenade-indicator/)
 - [**Rai's Hidden Caches**](https://hub.sp-tarkov.com/files/file/1770-rai-s-hidden-caches/)
 - [**Better Zeroing**](https://hub.sp-tarkov.com/files/file/2654-better-zeroing)
+- [**Extended Zero Ranges**](https://hub.sp-tarkov.com/files/file/2655-extended-zero-ranges/) 
 
 ### Visual:
 - [**Amands's Graphics**](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)

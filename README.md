@@ -114,6 +114,7 @@ In-Raid QoL:
 - [Game Panel HUD](https://hub.sp-tarkov.com/files/file/652-game-panel-hud/) and [EFT Api](https://hub.sp-tarkov.com/files/file/1215-eft-api/)
 - [**Borkel's Realistic Night Vision Goggles**](https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7/)
 - [**Borkel's Big Realistic Thermal Package**](https://hub.sp-tarkov.com/files/file/1510-borkel-s-big-realistic-thermal-package-bring-real-life-realism-to-your-thermal-s/) NOT UPDATED FOR 3.10
+- [**Borkel's Bloody Bullet Wounds + Particles + Splatters**](https://hub.sp-tarkov.com/files/file/1740-borkel-s-bloody-bullet-wounds-particles-splatters) 
 - [**SCOPE AND RED DOT SIGHT OVERHAUL BY GEFF HANNIGAN - Update By Murasame**](https://hub.sp-tarkov.com/files/file/2638-scope-and-red-dot-sight-overhaul-by-geff-hannigan-update-by-murasame/)
 - [**Reflex Sights Rework - Updated**](https://hub.sp-tarkov.com/files/file/1753-reflex-sights-rework-updated/)
 - [**BrightLasers**](https://hub.sp-tarkov.com/files/file/1880-brightlasers/)

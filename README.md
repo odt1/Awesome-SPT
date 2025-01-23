@@ -50,6 +50,7 @@ Fixes:
 - [**Hide Beta Rework**](https://hub.sp-tarkov.com/files/file/2211-hide-beta-rework/)
 - [Stop Hotkey Auto-Vault](https://hub.sp-tarkov.com/files/file/2252-stop-hotkey-auto-vault/)
 - [**Event Auto Profile Backup**](https://hub.sp-tarkov.com/files/file/2651-event-auto-profile-backup)
+- [**Please Just Fight**](https://hub.sp-tarkov.com/files/file/2652-please-just-fight/)
 
 Info:
 - [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/)
@@ -59,6 +60,7 @@ Info:
 - [**Quest Tracker**](https://hub.sp-tarkov.com/files/file/1574-quest-tracker/)
 - [**Better Keys NG**](https://hub.sp-tarkov.com/files/file/2550-better-keys-ng/)
 - [Item Sell Price](https://hub.sp-tarkov.com/files/file/1230-item-sell-price/)
+- [Easy Ammunition](https://hub.sp-tarkov.com/files/file/1298-easy-ammunition/)
 
 Stash and Hideout:
 - [**Stash Management Helper**](https://hub.sp-tarkov.com/files/file/2514-stash-management-helper/)
@@ -69,7 +71,7 @@ Stash and Hideout:
 - [More Tag Colours](https://hub.sp-tarkov.com/files/file/2100-more-tag-colours/)
 - [**Trader Modding And Improved Weapon Building**](https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building/)
 - [**Modding Stats Helper - by wara**](https://hub.sp-tarkov.com/files/file/1814-modding-stats-helper-by-wara/)
-- [**CactusPie's Transfer Loot into Container Automatically (Reupload)**](https://hub.sp-tarkov.com/files/file/2326-cactuspie-s-transfer-loot-into-container-automatically-reupload/)
+- [**CactusPie's Transfer Loot into Container Automatically (Reupload)**](https://hub.sp-tarkov.com/files/file/2326-cactuspie-s-transfer-loot-into-container-automatically-reupload/) download working version from comments
 - [Equip From Weapon Rack](https://hub.sp-tarkov.com/files/file/1567-equip-from-weapon-rack/)
 - [**Stash Search**](https://hub.sp-tarkov.com/files/file/1769-stash-search/)
 - [**QuickSell**](https://hub.sp-tarkov.com/files/file/2318-quicksell/)
@@ -134,6 +136,7 @@ In-Raid QoL:
 - [Hardcore Rules](https://hub.sp-tarkov.com/files/file/1054-hardcore-rules/)
 - [Props Dad Gamer Mod for 3.10](https://hub.sp-tarkov.com/files/file/2536-props-dad-gamer-mod-for-3-10/#versions)
 - [Leave It There](https://hub.sp-tarkov.com/files/file/2572-leave-it-there/)
+- [Path To Tarkov](https://hub.sp-tarkov.com/files/file/569-path-to-tarkov/) 
 
 
 ### Minor gameplay mods:
@@ -155,7 +158,7 @@ In-Raid QoL:
 - [Personal Trainer](https://hub.sp-tarkov.com/files/file/1798-personal-trainer/#versions)
 - [**Bosses Have Lega Medals**](https://hub.sp-tarkov.com/files/file/2109-bosses-have-lega-medals/)
 - [**Ref - SPT Friendly Quests**](https://hub.sp-tarkov.com/files/file/2108-ref-spt-friendly-quests/)
-- [**Open Extract**](https://hub.sp-tarkov.com/files/file/827-open-extract/) NOT UPDATED FOR 3.10
+- [**Open Extract**](https://hub.sp-tarkov.com/files/file/827-open-extract/)
 - [**Custom Raid Times**](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/) NOT UPDATED FOR 3.10
 - [**Late to the Party**](https://hub.sp-tarkov.com/files/file/1099-late-to-the-party/)
 - [Penalties Removed](https://hub.sp-tarkov.com/files/file/2144-penalties-removed/)
@@ -174,7 +177,7 @@ In-Raid QoL:
 - [Fershte's Balance Patch Updated](https://hub.sp-tarkov.com/files/file/2615-fershte-s-balance-patch-updated/)
 - [**sgtlaggy's Quest Tweaks**](https://hub.sp-tarkov.com/files/file/2107-sgtlaggy-s-quest-tweaks/)
 - [**Remove Time Gate From Quests**](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
-
+- [Headshot Darkness](https://hub.sp-tarkov.com/files/file/2164-headshot-darkness/)
 
 
 ### Expansions:

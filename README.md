@@ -61,6 +61,7 @@ Info:
 - [**Better Keys NG**](https://hub.sp-tarkov.com/files/file/2550-better-keys-ng/)
 - [Item Sell Price](https://hub.sp-tarkov.com/files/file/1230-item-sell-price/)
 - [Easy Ammunition](https://hub.sp-tarkov.com/files/file/1298-easy-ammunition/)
+- [Munitions Expert (Reboot)](https://hub.sp-tarkov.com/files/file/1324-munitions-expert-reboot/) 
 
 Stash and Hideout:
 - [**Stash Management Helper**](https://hub.sp-tarkov.com/files/file/2514-stash-management-helper/)

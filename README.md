@@ -51,6 +51,8 @@ Fixes:
 - [Stop Hotkey Auto-Vault](https://hub.sp-tarkov.com/files/file/2252-stop-hotkey-auto-vault/)
 - [**Event Auto Profile Backup**](https://hub.sp-tarkov.com/files/file/2651-event-auto-profile-backup)
 - [**Please Just Fight**](https://hub.sp-tarkov.com/files/file/2652-please-just-fight/)
+- [**Better Zeroing**](https://hub.sp-tarkov.com/files/file/2654-better-zeroing)
+- [**Extended Zero Ranges**](https://hub.sp-tarkov.com/files/file/2655-extended-zero-ranges/)
 
 Info:
 - [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/)
@@ -108,8 +110,6 @@ In-Raid QoL:
 - [Quick Throw Grenades](https://hub.sp-tarkov.com/files/file/1695-quick-throw-grenades/)
 - [Grenade Indicator](https://hub.sp-tarkov.com/files/file/2194-grenade-indicator/)
 - [**Rai's Hidden Caches**](https://hub.sp-tarkov.com/files/file/1770-rai-s-hidden-caches/)
-- [**Better Zeroing**](https://hub.sp-tarkov.com/files/file/2654-better-zeroing)
-- [**Extended Zero Ranges**](https://hub.sp-tarkov.com/files/file/2655-extended-zero-ranges/) 
 
 ### Visual:
 - [**Amands's Graphics**](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)

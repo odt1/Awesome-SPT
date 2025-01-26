@@ -31,7 +31,7 @@ Items in bold is what I use in every playthrough.
 - [Live Like Experience - SAIN Preset](https://hub.sp-tarkov.com/files/file/2605-live-like-experience-sain-preset/#comments) OR [Live Like Pmc Combat - Sain Preset](https://hub.sp-tarkov.com/files/file/2613-live-like-pmc-combat-sain-preset/) OR [**Realistic Combat Overhaul (Preset for SAIN)**](https://hub.sp-tarkov.com/files/file/2234-realistic-combat-overhaul-preset-for-sain/) NOT UPDATED FOR 3.10
 - [**That's Lit - Logical AI Vision**](https://hub.sp-tarkov.com/files/file/1453-that-s-lit-logical-ai-vision/)
 - [**Looting Bots**](https://hub.sp-tarkov.com/files/file/1096-looting-bots/)
-- [**Questing Bots**](https://hub.sp-tarkov.com/files/file/1534-questing-bots/) NOT UPDATED FOR 3.10
+- [**Questing Bots**](https://hub.sp-tarkov.com/files/file/1534-questing-bots/)
 - [**MOAR - Ultra lite spawn mod**](https://hub.sp-tarkov.com/files/file/1059-moar-ultra-lite-spawn-mod/) OR WHEN UPDATED [UnityToolkit](https://hub.sp-tarkov.com/files/file/1976-unitytoolkit/) and [SWAG + Donuts - Dynamic Spawn Waves and Custom Spawn Points](https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/)
 - [**APBS - Acid's Progressive Bot System**](https://hub.sp-tarkov.com/files/file/2180-apbs-acid-s-progressive-bot-system/) OT [ALP - Algorithmic Level Progression](https://hub.sp-tarkov.com/files/file/1400-alp-algorithmic-level-progression/#versions)
 

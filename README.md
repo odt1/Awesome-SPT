@@ -137,7 +137,8 @@ In-Raid QoL:
 - [Hardcore Rules](https://hub.sp-tarkov.com/files/file/1054-hardcore-rules/)
 - [Props Dad Gamer Mod for 3.10](https://hub.sp-tarkov.com/files/file/2536-props-dad-gamer-mod-for-3-10/#versions)
 - [Leave It There](https://hub.sp-tarkov.com/files/file/2572-leave-it-there/)
-- [Path To Tarkov](https://hub.sp-tarkov.com/files/file/569-path-to-tarkov/) 
+- [Path To Tarkov](https://hub.sp-tarkov.com/files/file/569-path-to-tarkov/)
+- [Barter Economy](https://hub.sp-tarkov.com/files/file/1760-barter-economy/)
 
 
 ### Minor gameplay mods:

@@ -79,6 +79,7 @@ Stash and Hideout:
 - [**Stash Search**](https://hub.sp-tarkov.com/files/file/1769-stash-search/)
 - [**QuickSell**](https://hub.sp-tarkov.com/files/file/2318-quicksell/)
 - [Dynamic Soundtrack & Custom Menu Music (Bobby's Music Player)](https://hub.sp-tarkov.com/files/file/2250-dynamic-soundtrack-custom-menu-music-bobby-s-music-player/)
+- [**Weapon Customizer**](https://hub.sp-tarkov.com/files/file/2622-weapon-customizer/)
 
 In-Raid QoL:
 - [**Audio Accessibility Indicators**](https://hub.sp-tarkov.com/files/file/2395-audio-accessibility-indicators/)

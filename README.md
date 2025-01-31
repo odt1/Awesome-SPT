@@ -70,7 +70,6 @@ Stash and Hideout:
 - [**INVENTORY ORGANIZING FEATURES**](https://hub.sp-tarkov.com/files/file/2122-inventory-organizing-features-3-9-0/)
 - [**Quick Move To Containers**](https://hub.sp-tarkov.com/files/file/1859-quick-move-to-containers/)
 - [**AutoDeposit**](https://hub.sp-tarkov.com/files/file/2027-autodeposit/)
-- [Weapon Customizer](https://hub.sp-tarkov.com/files/file/2622-weapon-customizer/#versions)
 - [More Tag Colours](https://hub.sp-tarkov.com/files/file/2100-more-tag-colours/)
 - [**Trader Modding And Improved Weapon Building**](https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building/)
 - [**Modding Stats Helper - by wara**](https://hub.sp-tarkov.com/files/file/1814-modding-stats-helper-by-wara/)

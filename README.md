@@ -110,6 +110,7 @@ In-Raid QoL:
 - [Quick Throw Grenades](https://hub.sp-tarkov.com/files/file/1695-quick-throw-grenades/)
 - [Grenade Indicator](https://hub.sp-tarkov.com/files/file/2194-grenade-indicator/)
 - [**Rai's Hidden Caches**](https://hub.sp-tarkov.com/files/file/1770-rai-s-hidden-caches/)
+- [Meaningful Weapon Masteries](https://hub.sp-tarkov.com/files/file/2669-meaningful-weapon-masteries)
 
 ### Visual:
 - [**Amands's Graphics**](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)

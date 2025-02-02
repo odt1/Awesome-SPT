@@ -181,6 +181,7 @@ In-Raid QoL:
 - [**sgtlaggy's Quest Tweaks**](https://hub.sp-tarkov.com/files/file/2107-sgtlaggy-s-quest-tweaks/)
 - [**Remove Time Gate From Quests**](https://hub.sp-tarkov.com/files/file/1653-remove-time-gate-from-quests/)
 - [Headshot Darkness](https://hub.sp-tarkov.com/files/file/2164-headshot-darkness/)
+- [Headshot Damage Redirection - HDR](https://hub.sp-tarkov.com/files/file/1809-headshot-damage-redirection-hdr) 
 
 
 ### Expansions:

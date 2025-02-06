@@ -130,7 +130,7 @@ In-Raid QoL:
 ### Gameplay overhauls:
 - [**Softcore (Proper Singleplayer Experience for SPT)**](https://hub.sp-tarkov.com/files/file/998-softcore-proper-singleplayer-experience-for-spt/)
 - [Live Flea Prices](https://hub.sp-tarkov.com/files/file/1561-live-flea-prices/)
-- [SPT Realism Mod](https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/) NOT UPDATED FOR 3.10
+- [SPT Realism Mod](https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/)
 - [Friendly PMC](https://hub.sp-tarkov.com/files/file/989-friendly-pmc/#tab_cc3724f09b1f66e57b7c36a18b7cc665e1200070)
 - [Raid Overhaul](https://hub.sp-tarkov.com/files/file/1673-raid-overhaul/)
 - [VAI: Rogue-Lite Tarkov Project](https://hub.sp-tarkov.com/files/file/2498-vai-rogue-lite-tarkov-project/)

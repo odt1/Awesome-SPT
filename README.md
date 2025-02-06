@@ -53,6 +53,7 @@ Fixes:
 - [**Please Just Fight**](https://hub.sp-tarkov.com/files/file/2652-please-just-fight/)
 - [**Better Zeroing**](https://hub.sp-tarkov.com/files/file/2654-better-zeroing)
 - [**Extended Zero Ranges**](https://hub.sp-tarkov.com/files/file/2655-extended-zero-ranges/)
+- [Temporary Fixes](https://hub.sp-tarkov.com/files/file/2091-temporary-fixes/#versions)
 
 Info:
 - [**Item Info**](https://hub.sp-tarkov.com/files/file/985-item-info/)

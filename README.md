@@ -127,7 +127,7 @@ In-Raid QoL:
 - [**Visible Minefields**](https://hub.sp-tarkov.com/files/file/2441-visible-minefields/)
 - [WTT - Menu Overhaul](https://hub.sp-tarkov.com/files/file/2412-wtt-menu-overhaul/)
 - [**HollywoodFX**](https://hub.sp-tarkov.com/files/file/2683-hollywoodfx)
-- [**Dismemberment Mod**](https://www.moddb.com/mods/dismemberment-mod)
+- [**Dismemberment Mod**](https://www.moddb.com/mods/dismemberment-mod/addons/dismemberment-mod)
 
 
 ### Gameplay overhauls:

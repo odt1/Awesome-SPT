@@ -126,6 +126,8 @@ In-Raid QoL:
 - [**Better Rear Sights**](https://hub.sp-tarkov.com/files/file/2176-better-rear-sights/)
 - [**Visible Minefields**](https://hub.sp-tarkov.com/files/file/2441-visible-minefields/)
 - [WTT - Menu Overhaul](https://hub.sp-tarkov.com/files/file/2412-wtt-menu-overhaul/)
+- [**HollywoodFX**](https://hub.sp-tarkov.com/files/file/2683-hollywoodfx)
+- [**Dismemberment Mod**](https://www.moddb.com/mods/dismemberment-mod)
 
 
 ### Gameplay overhauls:

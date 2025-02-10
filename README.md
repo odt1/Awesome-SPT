@@ -127,8 +127,8 @@ In-Raid QoL:
 - [**Visible Minefields**](https://hub.sp-tarkov.com/files/file/2441-visible-minefields/)
 - [WTT - Menu Overhaul](https://hub.sp-tarkov.com/files/file/2412-wtt-menu-overhaul/)
 - [**HollywoodFX**](https://hub.sp-tarkov.com/files/file/2683-hollywoodfx)
-- [**Dismemberment Mod**](https://www.moddb.com/mods/dismemberment-mod/addons/dismemberment-mod)
-
+- [Animator Updater](https://hub.sp-tarkov.com/files/file/2686-animator-updater/)
+- [Transparent P90 Mag](https://hub.sp-tarkov.com/files/file/2687-transparent-p90-mag/)
 
 ### Gameplay overhauls:
 - [**Softcore (Proper Singleplayer Experience for SPT)**](https://hub.sp-tarkov.com/files/file/998-softcore-proper-singleplayer-experience-for-spt/)
@@ -143,7 +143,7 @@ In-Raid QoL:
 - [Leave It There](https://hub.sp-tarkov.com/files/file/2572-leave-it-there/)
 - [Path To Tarkov](https://hub.sp-tarkov.com/files/file/569-path-to-tarkov/)
 - [Barter Economy](https://hub.sp-tarkov.com/files/file/1760-barter-economy/)
-
+- [Bronzemanmode by KcY-3.10 port](https://hub.sp-tarkov.com/files/file/2216-bronzemanmode-by-kcy-3-10-port/)
 
 ### Minor gameplay mods:
 - [**Keys In Loot (KIL)**](https://hub.sp-tarkov.com/files/file/1738-keys-in-loot-kil/)
